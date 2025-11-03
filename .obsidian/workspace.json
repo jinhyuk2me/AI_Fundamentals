@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra/3. 행렬과 선형 변환.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 행렬과 선형 변환"
+              "title": "README"
             }
           }
         ]
@@ -171,12 +171,24 @@
   },
   "active": "f9513fda9d607138",
   "lastOpenFiles": [
-    "Math/Linear Algebra/4. 고유값과 고유벡터.md",
-    "Math/Linear Algebra/5. 특잇값 분해.md",
     "AGENTS.md",
-    "CLAUDE.md",
+    "README.md",
+    "README.md.tmp.13573.1762135742851",
+    "AI 기초 개요.md",
+    "ML Foundations/학습 패러다임.md",
+    "ML Foundations/정규화와 일반화.md",
+    "ML Foundations/손실 함수와 평가 지표.md",
+    "ML Foundations/머신러닝 최적화.md",
     "Math/Linear Algebra/3. 행렬과 선형 변환.md",
-    "Math/Discrete/2. 그래프 기초와 표현.md",
-    "ML Foundations/머신러닝 최적화.md"
+    "Math/Linear Algebra/4. 고유값과 고유벡터.md",
+    "Math/Linear Algebra/2. 벡터 공간과 기저.md",
+    "Math/Optimization/1. 최적화 기초.md",
+    "Operators/합성곱 연산자.md",
+    "Operators/선형 연산자.md",
+    "Programming/파이썬 기초.md",
+    "Programming/자료구조와 알고리즘.md",
+    "Math/Linear Algebra/5. 특잇값 분해.md",
+    "CLAUDE.md",
+    "Math/Discrete/2. 그래프 기초와 표현.md"
   ]
 }
