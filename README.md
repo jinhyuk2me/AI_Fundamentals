@@ -1,4 +1,4 @@
-# AI Basics
+# AI Basics - 딥러닝을 위한 수학·프로그래밍·ML 기초
 
 AI/딥러닝을 공부하면서 정리한 학습 노트입니다.
 
@@ -148,19 +148,6 @@ ai_basics/
 ### Operators
 - [선형 연산자](Operators/선형%20연산자.md)
 - [합성곱 연산자](Operators/합성곱%20연산자.md)
-
-## 참고 자료
-
-### 교과서
-- **선형대수**: *Linear Algebra and Its Applications* (Gilbert Strang)
-- **미적분**: *Calculus* (James Stewart)
-- **확률**: *Introduction to Probability* (Bertsekas & Tsitsiklis)
-- **딥러닝**: *Deep Learning* (Goodfellow, Bengio, Courville)
-
-### 온라인 강의
-- [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-- [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
-- [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 
 ## 라이선스
 
