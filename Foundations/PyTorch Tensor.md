@@ -43,6 +43,6 @@ if __name__ == "__main__":
 - Autograd 추적이 필요 없는 지점에서는 `with torch.no_grad()`나 `tensor.detach()`로 그래프를 끊어 메모리를 절약하세요.
 
 ## 관련 노트
-- [[DL Foundations/1. 신경망 기본 구조]]
+- [[Foundations/5. 신경망 기본 구조]]
 - [[Programming/1. 파이썬 기초]]
-- [[ML Foundations/3. 머신러닝 최적화]]
+- [[Foundations/3. 최적화]]
