@@ -9,6 +9,13 @@ AI/딥러닝 기초 학습을 위한 Obsidian Vault입니다. 수학, 프로그�
 - Obsidian 링크로 관련 개념 연결
 - 한국어 작성 (영문 용어 병기)
 
+## 사전 준비
+
+이 저장소는 기본적인 Python 지식을 가정합니다. Python을 처음 시작한다면 다음 리소스를 추천합니다:
+- **Python 기초**: [Real Python](https://realpython.com/) 또는 [Python 공식 튜토리얼](https://docs.python.org/3/tutorial/)
+- **NumPy**: [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
+- **환경 설정**: Anaconda 또는 `venv`로 가상환경 구성
+
 ## 저장소 구조
 
 ```
@@ -22,7 +29,7 @@ ai_fundamentals/
 │   ├── Optimization/          # 최적화 이론
 │   └── ...
 ├── MLDL Basic/                # ML/DL 기초 개념 및 구현
-├── Programming/               # Python, 자료구조, 알고리즘
+├── PyTorch/                   # PyTorch 실습 노트
 └── CLAUDE.md                  # 노트 작성 가이드라인
 ```
 

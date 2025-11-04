@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PyTorch/PyTorch vs Others.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "PyTorch vs Others"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "PyTorch/PyTorch vs Others.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 의 개요"
+              "title": "PyTorch vs Others 의 개요"
             }
           }
         ],
@@ -171,41 +171,41 @@
   },
   "active": "f9513fda9d607138",
   "lastOpenFiles": [
-    "0. AI 분류 체계.md.tmp.6286.1762245745260",
-    "0. AI 분류 체계.md.tmp.6286.1762245738499",
-    "GEMINI.md",
-    "CLAUDE.md",
-    "0. AI 분류 체계.md",
-    "AI 기초 개요.md.tmp.6286.1762245713175",
-    "AI 기초 개요.md.tmp.6286.1762245707570",
-    "AI 기초 개요.md.tmp.6286.1762245701111",
-    "AI 기초 개요.md.tmp.6286.1762245692637",
-    "Foundations/8. 합성곱 신경망 기초.md",
-    "AI 기초 개요.md.tmp.6286.1762245686528",
-    "AI 기초 개요.md.tmp.6286.1762245680313",
-    "README.md.tmp.6286.1762245669414",
-    "MLDL Basic/PyTorch Tensor.md",
+    "PyTorch/PyTorch Overview.md",
+    "PyTorch/PyTorch vs Others.md",
+    "PyTorch/Tensor/Tensor Hub.md",
+    "PyTorch/PyTorch Tensor.md",
+    "PyTorch/Advanced/Graph and Compilation.md",
+    "PyTorch/Advanced/AMP and Quantization.md",
     "MLDL Basic/9. 시퀀스 모델 기초.md",
+    "MLDL Basic/PyTorch Tensor.md",
     "MLDL Basic/8. 합성곱 신경망 기초.md",
     "MLDL Basic/7. 역전파와 최적화 전략.md",
     "MLDL Basic/6. 활성화 함수와 출력층 설계.md",
-    "MLDL Basic/5. 신경망 기본 구조.md",
     "MLDL Basic/4. 정규화와 일반화.md",
-    "MLDL Basic/3. 최적화.md",
-    "MLDL Basic/2. 손실 함수와 평가 지표.md",
-    "MLDL Basic/1. 학습 패러다임.md",
-    "MLDL Basic",
-    "Foundations/7. 역전파와 최적화 전략.md",
-    "Foundations/PyTorch Tensor.md",
-    "Foundations/9. 시퀀스 모델 기초.md",
-    "Math/Linear Algebra/8. 선형 연산자.md",
-    "Math/Linear Algebra/9. 행렬 분해.md",
-    "Math/Discrete/2. 그래프 기초와 표현.md",
-    "Math/Discrete/4. 스펙트럴 그래프 이론과 GNN.md",
-    "Math/Discrete/3. 그래프 알고리즘.md",
-    "Programming/1. 파이썬 기초.md",
+    "MLDL Basic/4. 정규화와 일반화.md.tmp.6286.1762247288545",
     "Programming/2. 자료구조와 알고리즘.md",
-    "AI 기초 개요.md.tmp.6286.1762245526447",
-    "Math/Analysis/4. 합성곱과 푸리에 변환.md"
+    "Programming/1. 파이썬 기초.md",
+    "Programming",
+    "MLDL Basic/3. 최적화.md",
+    "MLDL Basic/5. 신경망 기본 구조.md",
+    "PyTorch/Data/IO and Storage.md",
+    "PyTorch/Data/Dataset and DataLoader.md",
+    "PyTorch/Data/Transforms/Transforms Overview.md",
+    "0. AI 분류 체계.md",
+    "MLDL Basic/2. 손실 함수와 평가 지표.md",
+    "PyTorch/Advanced/Profiling and Debugging.md",
+    "PyTorch/Advanced/Distributed and Parallel.md",
+    "PyTorch/Training/Training Loop Patterns.md",
+    "PyTorch/Training/Regularization Techniques.md",
+    "PyTorch/Training/Optimizers and Schedulers.md",
+    "PyTorch/Training",
+    "PyTorch/Tensor",
+    "PyTorch/Projects",
+    "PyTorch/Modeling/torch.nn",
+    "PyTorch/Modeling/Design Notes",
+    "PyTorch/Modeling",
+    "PyTorch/Evaluation",
+    "PyTorch/Ecosystem"
   ]
 }
